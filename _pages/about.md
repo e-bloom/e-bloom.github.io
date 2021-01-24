@@ -5,6 +5,4 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+I'm a senior quality engineer who excels at exploratory analysis and data visualization.
