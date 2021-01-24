@@ -1,6 +1,6 @@
 # Portfolio
 
-This repository is for hosting my portfolio located [here](e-bloom.github.io)
+This repository is for hosting my portfolio located [here](https://e-bloom.github.io/)
 
 ---------------------
 
