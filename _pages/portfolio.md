@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /data-portfolio/
+permalink: /portfolio/
 title: "Data Portfolio"
 author_profile: true
 header:
